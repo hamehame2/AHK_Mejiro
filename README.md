@@ -38,39 +38,68 @@ plover版の開発と公開をしていただき、またAHK版の公開も快�
 global MejiroKeyDef := Map()
 
 AddKey("q", "L", "hyphen", "#")
+
 AddKey("w", "L", "conso",  "T")
+
 AddKey("e", "L", "vowel",  "Y")
+
 AddKey("r", "L", "vowel",  "I")
+
 AddKey("t", "L", "vowel",  "U")
 
+
 AddKey("a", "L", "conso",  "S")
+
 AddKey("s", "L", "conso",  "K")
+
 AddKey("d", "L", "conso",  "N")
+
 AddKey("f", "L", "vowel",  "A")
+
 AddKey("g", "L", "vowel",  "U")
 
+
 AddKey("z", "L", "hyphen", "#")
+
 AddKey("c", "L", "particle", "n")
+
 AddKey("v", "L", "particle", "t")
+
 AddKey("b", "L", "particle", "k")
 
+
 AddKey("y", "R", "vowel",  "U")
+
 AddKey("u", "R", "vowel",  "I")
+
 AddKey("i", "R", "vowel",  "Y")
+
 AddKey("o", "R", "conso",  "T")
+
 AddKey("p", "R", "star",   "*")
+
 AddKey(":", "R", "star",   "*")
+
 AddKey("@", "R", "star",   "*")
 
+
 AddKey("h", "R", "vowel",  "U")
+
 AddKey("j", "R", "vowel",  "A")
+
 AddKey("k", "R", "conso",  "N")
+
 AddKey("l", "R", "conso",  "K")
+
 AddKey(";", "R", "conso",  "S")
 
+
 AddKey("/", "R", "star",   "*")
+
 AddKey("n", "R", "particle", "k")
+
 AddKey("m", "R", "particle", "t")
+
 AddKey(",", "R", "particle", "n")
 
 
@@ -92,4 +121,5 @@ ZMKでは24KRO程度が良いと思われます。PCからデバイスを完全�
 まだCharlieplexingでない方はためしていないです。
 
 ちなみに点字使用者は6KRO以上か必ず確認して購入するようです（６点入力をするため）。
+
 ####　Nキーさえあれば実装はAHKのほうが楽ということソフトの実装難易度を下げた形のひとつの寄与になる旨をご理解の程よろしくおねがいします。
