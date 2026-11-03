@@ -6,7 +6,7 @@ on:
 
 env:
   # The file for the GitHub Pages website
-  GUIDE_HTML: mejiro_practiceguide_html/mejiro_practice_search_warp_scroll.html
+  GUIDE_HTML: mejiro_practice_learning_rust2_8_4_20261102.html
 
 permissions: {}
 
